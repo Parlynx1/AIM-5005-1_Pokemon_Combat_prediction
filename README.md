@@ -46,9 +46,10 @@
 
 ## Installation
 
-# Clone the repo
-git clone https://github.com/<your-username>/pokemon-combat-prediction.git
-cd pokemon-combat-prediction
+# Clone the repository
+git clone https://github.com/Parlynx1/AIM-5005-1_Pokemon_Combat_prediction.git
+cd AIM-5005-1_Pokemon_Combat_prediction
+
 
 # (Optional) create & activate virtual environment
 python3 -m venv venv
